@@ -1,8 +1,15 @@
 ### Hi there 👋
 
+I have experience with TypeScript, React, React Native, AWS, Expo, Node, MySQL, MongoDB.
 
-- I'm new to coding (approximately 10 months) and my first project, a sudoku solver -> https://adam-paul952.github.io/sudoku-solver/ built with HTML, CSS, Javascript
+Currently working on two real world projects:
+  - Evenhand - A mobile application to provide employers a platform to provide personalized micro learning in specified topics.
+  - Darling Pretty Photography - A web application to allow customers to view and book photography sessions online.
 
-- My React.js project -> https://dartscoreboard.link , now a usable score calculator for playing darts.
-
-- I've also began learning Node.js, creating a back-end for my dart-scoreboard -> https://github.com/adam-paul952/dart-scoreboard-server
+Current Personal Projects:
+- Dart Scoreboard Mobile
+- Dart Scoreboard
+    
+My first project:
+- Sudoku Solver
+    - Python JavaScript HTML CSS
